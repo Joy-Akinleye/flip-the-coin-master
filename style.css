@@ -21,11 +21,11 @@ body {
     background-color: var(--background-blue);
     color: var(--pure-white);
     font-family: var(--general-font);
+    height: 100vh;
 }
 
 .main {
     position: relative;
-    height: 100vh;
 }
 
 .container {
