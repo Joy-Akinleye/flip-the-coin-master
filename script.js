@@ -1,4 +1,4 @@
-const coin = document.querySelector(".head");
+const coin = document.querySelector(".coin-head");
 const flipBtn = document.querySelector(".flipbtn");
 const resultText = document.querySelector(".result");
 
